@@ -1,3 +1,5 @@
+sch: https://www.google.com/search?q=rsync+inplace
+
 # Guide:
 https://superuser.com/questions/576035/does-rsync-inplace-write-to-the-entire-file-or-just-to-the-parts-that-need-to
 
